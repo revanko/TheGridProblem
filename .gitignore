@@ -1,0 +1,26 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# VS Code / VS files
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Other
+TestResults/
+*.log
+*.DS_Store
+*.class
+*.dbmdl
+*.ncb
+*.sdf
+*.cache
+*.pdb
+*.mdb
+
+# Auto-generated files
+*.generated.cs
